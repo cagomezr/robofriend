@@ -1,0 +1,20 @@
+1 0 0 0 4 9 1 2 6 
+Cmd: 1
+Length: 9
+Packet Counter: 1Drive Command Received
+---> Direction = Forward,   Duration = 2
+2 0 0 0 8 8 7 6 
+Cmd: 5
+Length: 8
+Packet Counter: 2Claw Command Received
+---> Action = Open0
+3 0 0 0 8 8 8 5 
+Cmd: 5
+Length: 8
+Packet Counter: 3Claw Command Received
+---> Action = Close0
+4 0 0 0 1 7 5 
+Cmd: 3
+Length: 7
+Packet Counter: 4SLEEP - Goodnight
+**** Cmd Thread Terminating ****

@@ -1,0 +1,61 @@
+Data for Telemitry Packet
+
+Sensor indicator reading 1
+Arm Position reading 32699
+Robot is Stationary
+Arm is Down
+claw is closed
+
+Data for Telemitry Packet
+
+Sensor indicator reading 2
+Arm Position reading 32698
+Robot is Stationary
+Arm is Down
+claw is closed
+
+Data for Telemitry Packet
+
+Sensor indicator reading 3
+Arm Position reading 32697
+Robot is Stationary
+Arm is Down
+Claw is Open
+Data for Telemitry Packet
+
+Sensor indicator reading 4
+Arm Position reading 32696
+Robot is Stationary
+Arm is UP
+Claw is Open
+Data for Telemitry Packet
+
+Sensor indicator reading 5
+Arm Position reading 32695
+Robot is Stationary
+Arm is UP
+Claw is Open
+Data for Telemitry Packet
+
+Sensor indicator reading 6
+Arm Position reading 32694
+Robot is Stationary
+Arm is UP
+claw is closed
+
+Data for Telemitry Packet
+
+Sensor indicator reading 7
+Arm Position reading 32693
+Robot is Stationary
+Arm is UP
+claw is closed
+
+Data for Telemitry Packet
+
+Sensor indicator reading 8
+Arm Position reading 32692
+Robot is Stationary
+Arm is Down
+claw is closed
+

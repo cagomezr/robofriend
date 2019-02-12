@@ -1,0 +1,14 @@
+Connect to Robot Adress
+127.0.0.1
+Connect to Robot Port
+27000
+Connect to Robot Telemitry  Port
+27501
+Running TCP RobotFriend Comunications 
+Start thread 1 
+Thread one  detatched
+Start Thread 2 
+Detatch thread 2 
+begin EXEComplete  sequence 
+Stopping TCP RobotFriend Comunications 
+Goodbye 

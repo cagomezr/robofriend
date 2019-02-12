@@ -1,0 +1,74 @@
+
+Please tell me what should the robot do
+ DRIVE (D),CLAW (C), ARM  (A), SLEEP (S)
+Drive Menu
+ Please tell me for how long
+ 2
+Please tell me what direction to go
+ Forward(F), Backward(B), Left(L), Right(R)
+Backward(B)
+Command send  succesfully and acknowledged
+
+Please tell me what should the robot do
+ DRIVE (D),CLAW (C), ARM  (A), SLEEP (S)
+Drive Menu
+ Please tell me for how long
+ 2
+Please tell me what direction to go
+ Forward(F), Backward(B), Left(L), Right(R)
+Left(L)
+Command send  succesfully and acknowledged
+
+Please tell me what should the robot do
+ DRIVE (D),CLAW (C), ARM  (A), SLEEP (S)
+Drive Menu
+ Please tell me for how long
+ 2
+Please tell me what direction to go
+ Forward(F), Backward(B), Left(L), Right(R)
+Right(R)
+Command send  succesfully and acknowledged
+
+Please tell me what should the robot do
+ DRIVE (D),CLAW (C), ARM  (A), SLEEP (S)
+Arm Menu
+Please tell me should I go Up(U) or Down(D)
+Up(U)
+Command send  succesfully and acknowledged
+
+Please tell me what should the robot do
+ DRIVE (D),CLAW (C), ARM  (A), SLEEP (S)
+Claw Menu
+Please tell me should I Close(C) or Open(O)
+Open(O)
+Command send  succesfully and acknowledged
+
+Please tell me what should the robot do
+ DRIVE (D),CLAW (C), ARM  (A), SLEEP (S)
+Arm Menu
+Please tell me should I go Up(U) or Down(D)
+Down(D)
+Command send  succesfully and acknowledged
+
+Please tell me what should the robot do
+ DRIVE (D),CLAW (C), ARM  (A), SLEEP (S)
+Claw Menu
+Please tell me should I Close(C) or Open(O)
+Close(C)
+Command send  succesfully and acknowledged
+
+Please tell me what should the robot do
+ DRIVE (D),CLAW (C), ARM  (A), SLEEP (S)
+Drive Menu
+ Please tell me for how long
+ 5
+Please tell me what direction to go
+ Forward(F), Backward(B), Left(L), Right(R)
+Left(L)
+Command send  succesfully and acknowledged
+
+Please tell me what should the robot do
+ DRIVE (D),CLAW (C), ARM  (A), SLEEP (S)
+Ready to quit Y/N
+ Yes Robot will Sleep now
+Command send  succesfully and acknowledged
